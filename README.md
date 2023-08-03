@@ -1,2 +1,2 @@
 # ComVis_with_Pytorch
-Some basic Computer Vision Implementations with Pytorch
+Practicing with Pytorch by implementing some basic computer vision implementations (along with one simple neural net).
