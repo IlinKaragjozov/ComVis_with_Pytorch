@@ -1,2 +1,2 @@
 # ComVis_with_Pytorch
-Practicing with Pytorch by implementing some basic computer vision CNNs (along with one simple neural net).
+Exploring computer vision with Pytorch. First project is using traditional fully connected neural networks to create a model that can clasify images of arbic characters from a Kaggle (https://www.kaggle.com/mloey1/ahdd1) image dataset. Goal is to develop a simple image clasfier.
